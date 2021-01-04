@@ -1,3 +1,3 @@
 # 100daysofcode
 
-## This is my repo for 100 days of code"# prateeksahu-in" 
+## This is my repo for #100DaysOfCode"# prateeksahu-in" 
