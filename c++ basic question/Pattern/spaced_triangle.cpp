@@ -14,7 +14,15 @@ int main()
         }
         for(int j=0;j<=i;j++)
         {
-            cout<<"*";
+            if((j==0)||(j==i))
+            {
+                cout<<"*";
+            }
+            else
+            {
+                cout<<" ";
+
+            }
         }
         cout<<"\n";
     }
